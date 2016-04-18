@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8"?>
 <PipelineBuildEvent xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
-  <SourceFile>C:/Users/S00151925/Downloads/EasterSolution2016-master/EasterSolution2016-master/Easter2016/Content/cannon fire.wav</SourceFile>
+  <SourceFile>C:/Users/S00151925/Source/Repos/S00151925FinalAssessment2016/Easter2016/Content/cannon fire.wav</SourceFile>
   <SourceTime>2016-04-06T10:40:53.6141956+01:00</SourceTime>
-  <DestFile>C:/Users/S00151925/Downloads/EasterSolution2016-master/EasterSolution2016-master/Easter2016/Content/bin/Windows/cannon fire.xnb</DestFile>
-  <DestTime>2016-04-06T10:41:12.3859649+01:00</DestTime>
+  <DestFile>C:/Users/S00151925/Source/Repos/S00151925FinalAssessment2016/Easter2016/Content/bin/Windows/cannon fire.xnb</DestFile>
+  <DestTime>2016-04-18T10:34:54.7774311+01:00</DestTime>
   <Importer>WavImporter</Importer>
   <ImporterTime>2015-04-29T18:14:44+01:00</ImporterTime>
   <Processor>SoundEffectProcessor</Processor>
