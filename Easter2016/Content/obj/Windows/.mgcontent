@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<SourceFileCollection xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <Profile>Reach</Profile>
+  <Platform>Windows</Platform>
+  <Config />
+  <SourceFiles>
+    <File>C:/Users/S00151925/Downloads/EasterSolution2016-master/EasterSolution2016-master/Easter2016/Content/Backing track wav.wav</File>
+    <File>C:/Users/S00151925/Downloads/EasterSolution2016-master/EasterSolution2016-master/Easter2016/Content/cannon fire.wav</File>
+    <File>C:/Users/S00151925/Downloads/EasterSolution2016-master/EasterSolution2016-master/Easter2016/Content/Impact.wav</File>
+    <File>C:/Users/S00151925/Downloads/EasterSolution2016-master/EasterSolution2016-master/Easter2016/Content/SimpleSpriteFont.spritefont</File>
+    <File>C:/Users/S00151925/Downloads/EasterSolution2016-master/EasterSolution2016-master/Easter2016/Content/pokeball.png</File>
+    <File>C:/Users/S00151925/Downloads/EasterSolution2016-master/EasterSolution2016-master/Easter2016/Content/character1.png</File>
+    <File>C:/Users/S00151925/Downloads/EasterSolution2016-master/EasterSolution2016-master/Easter2016/Content/enemy1.png</File>
+    <File>C:/Users/S00151925/Downloads/EasterSolution2016-master/EasterSolution2016-master/Easter2016/Content/PokemonGym.png</File>
+    <File>C:/Users/S00151925/Downloads/EasterSolution2016-master/EasterSolution2016-master/Easter2016/Content/PokiCenter.png</File>
+    <File>C:/Users/S00151925/Downloads/EasterSolution2016-master/EasterSolution2016-master/Easter2016/Content/minecraft.png</File>
+  </SourceFiles>
+</SourceFileCollection>
